@@ -1,6 +1,6 @@
 import {useState} from 'react';
 import {Code, Database, Server, Globe} from 'lucide-react';
-import {skillsData} from '../data/skillsData';
+import {skillsData} from '../data/SkillsData.js';
 import SkillBar from './SkillBar';
 
 const Skills = () => {
