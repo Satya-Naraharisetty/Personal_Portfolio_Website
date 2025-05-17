@@ -138,9 +138,9 @@ const Contact = () => {
                             </div>
                             <div>
                                 <h4 className="font-semibold mb-1">Email</h4>
-                                <a href="mailto:johndoe@example.com"
+                                <a href="mailto:venkatnaraharisetty1234@gmail.com"
                                    className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                                    johndoe@example.com
+                                    venkatnaraharisetty1234@gmail.com
                                 </a>
                             </div>
                         </div>
@@ -154,7 +154,7 @@ const Contact = () => {
                                 <h4 className="font-semibold mb-1">Phone</h4>
                                 <a href="tel:+1234567890"
                                    className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                                    +1 (234) 567-890
+                                    +91 77020 14320
                                 </a>
                             </div>
                         </div>
@@ -167,7 +167,7 @@ const Contact = () => {
                             <div>
                                 <h4 className="font-semibold mb-1">Location</h4>
                                 <p className="text-gray-600 dark:text-gray-400">
-                                    San Francisco, CA
+                                    Andhra Pradesh, India
                                 </p>
                             </div>
                         </div>
@@ -177,7 +177,7 @@ const Contact = () => {
                         <h3 className="text-xl font-semibold mb-4">Connect with me</h3>
                         <div className="flex space-x-4">
                             <a
-                                href="https://github.com/johndoe"
+                                href="https://github.com/Satya-Naraharisetty"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="p-3 bg-gray-200 dark:bg-gray-700 rounded-full text-gray-700 dark:text-gray-300 hover:bg-blue-600 dark:hover:bg-blue-600 hover:text-white dark:hover:text-white transition-colors"
@@ -186,7 +186,7 @@ const Contact = () => {
                                 <Github size={20}/>
                             </a>
                             <a
-                                href="https://linkedin.com/in/johndoe"
+                                href="https://www.linkedin.com/in/venkatnaraharisetty/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="p-3 bg-gray-200 dark:bg-gray-700 rounded-full text-gray-700 dark:text-gray-300 hover:bg-blue-600 dark:hover:bg-blue-600 hover:text-white dark:hover:text-white transition-colors"
@@ -195,7 +195,7 @@ const Contact = () => {
                                 <Linkedin size={20}/>
                             </a>
                             <a
-                                href="https://twitter.com/johndoe"
+                                href="https://twitter.com/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="p-3 bg-gray-200 dark:bg-gray-700 rounded-full text-gray-700 dark:text-gray-300 hover:bg-blue-600 dark:hover:bg-blue-600 hover:text-white dark:hover:text-white transition-colors"
