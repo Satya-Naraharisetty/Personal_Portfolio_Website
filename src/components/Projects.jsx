@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import {projectsData} from '../data/projectsData.jsx';
+import {projectsData} from '../data/projectsData.js';
 import ProjectCard from './ProjectCard';
 
 const Projects = () => {
