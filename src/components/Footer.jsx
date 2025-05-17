@@ -15,14 +15,15 @@ const Footer = () => {
 
                     <div className="text-center md:text-left mb-4 md:mb-0">
                         <div className="flex items-center justify-center">
-                            <span className="text-gray-600 dark:text-gray-400">Made with</span>
+                            <span className="text-gray-600 dark:text-gray-400">Made with consistent</span>
                             <Heart size={16} className="mx-1 text-red-500 fill-current"/>
-                            <span className="text-gray-600 dark:text-gray-400">using React & Tailwind CSS</span>
+                            <span className="text-gray-600 dark:text-gray-400">& effort</span>
+                            <span className="text-gray-600 dark:text-gray-400">, using React & Tailwind CSS</span>
                         </div>
                     </div>
 
                     <div className="text-gray-600 dark:text-gray-400 text-sm">
-                        © {currentYear} John Doe. All rights reserved.
+                        © {currentYear} Satya. All rights reserved.
                     </div>
                 </div>
             </div>
