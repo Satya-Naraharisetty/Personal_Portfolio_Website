@@ -49,7 +49,7 @@ const Hero = () => {
                             >
                                 View My Work
                             </a>
-                            <a href="/src/assets/Satya_Resume.pdf"
+                            <a href="/Satya_Resume.pdf"
                                 className="px-6 py-3 bg-white dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-lg border border-gray-300 dark:border-gray-700 transition-colors shadow-lg hover:shadow-xl font-medium text-lg flex items-center"
                                 download>
                                 Resume <Download size={18} className="ml-2"/>
@@ -64,7 +64,7 @@ const Hero = () => {
                                 <div
                                     className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-r from-blue-400 to-purple-500 mx-auto overflow-hidden">
                                     <img
-                                        src="/src/assets/Satya_Picture.jpg"
+                                        src="/Satya_Picture.jpg"
                                         alt="Satya Naraharisetty"
                                         className="w-full h-full object-cover"
                                     />
